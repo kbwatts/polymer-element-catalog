@@ -11,8 +11,12 @@
   -webkit-overflow-scrolling: touch;
 }
 
-::content paper-toolbar {
-  --paper-toolbar-background: white;
+::content paper-toolbar, paper-toolbar {
+  /*--paper-toolbar-background: #003b64;*/
+}
+
+::content #topBar {
+  background: #003b64;
 }
 
 ::content .section {

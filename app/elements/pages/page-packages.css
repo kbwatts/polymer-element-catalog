@@ -73,3 +73,11 @@ guide-card, #coming-soon {
   color: rgba(0, 0, 0, var(--dark-primary-opacity));
   border: 1px dashed #e5e5e5;
 }
+
+paper-toolbar {
+  background: #003b64;
+}
+
+cart-icon {
+  color: #fafafa;
+}

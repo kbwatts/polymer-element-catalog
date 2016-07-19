@@ -1,5 +1,5 @@
 body {
-  font-family: Roboto, 'Noto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', Roboto, 'Noto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   font-weight: 400;
   color: #424242;
@@ -138,7 +138,7 @@ paper-toolbar nav a {
 }
 
 paper-toolbar nav a:hover {
-  color: #536DFE;
+  color: #003b64;
 }
 
 paper-toolbar nav a:first-child {
@@ -147,11 +147,11 @@ paper-toolbar nav a:first-child {
 
 paper-toolbar nav .active {
   color: black;
-  border-bottom: 2px solid #7986CB;
+  border-bottom: 2px solid #003b64;
 }
 
 iron-icon {
-  color: rgba(0,0,0,0.54);
+  /*color: rgba(0,0,0,0.54);*/
 }
 
 p a {
